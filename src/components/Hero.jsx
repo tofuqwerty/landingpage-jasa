@@ -26,7 +26,7 @@ const Hero = ({ onBookClick }) => {
             >
               📱 Book via WhatsApp
             </button>
-            <button className="px-8 py-4 border-2 border-white text-white rounded-full font-semibold hover:bg-pink-50 transition">
+            <button className="px-8 py-4 border-2 border-white text-white rounded-full font-semibold hover:bg-pink-50 hover:text-black transition">
               Lihat Portfolio
             </button>
           </div>

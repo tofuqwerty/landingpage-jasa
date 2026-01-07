@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto text-center">
         <div className="text-2xl font-bold mb-4">📸 MINE Studio</div>
         <p className="mb-6 opacity-90">Professional Photographer</p>
-        <div className="flex justify-center gap-6 mb-6">
+        <div className="flex justify-center gap-6 mb-6 text-3x1">
           <a href="#" className="hover:opacity-75 transition"><FaInstagram /></a>
           <a href="#" className="hover:opacity-75 transition"><FaTiktok /></a>
           <a href="#" className="hover:opacity-75 transition"><FaWhatsapp /></a>
